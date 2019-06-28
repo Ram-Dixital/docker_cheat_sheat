@@ -1,0 +1,180 @@
+https://www.threatstack.com/blog/50-useful-docker-tutorials-for-it-professionals-from-beginner-to-advanced
+https://apiumhub.com/tech-blog-barcelona/top-benefits-using-docker/
+https://www.katacoda.com/courses/docker
+## List Docker CLI commands
+docker
+docker container --help
+
+## Display Docker version and info
+docker --version
+docker version
+docker info
+
+## Execute Docker image
+docker run hello-world
+
+## List Docker images
+docker image ls
+
+## List Docker containers (running, all, all in quiet mode)
+docker container ls
+docker container ls --all
+docker container ls -aq
+
+https://azure.microsoft.com/en-us/blog/running-cognitive-service-containers/
+
+Important about Docker
+https://github.com/docker/labs/tree/master/developer-tools/nodejs/porting
+
+Docker Cheat Sheet
+https://github.com/wsargent/docker-cheat-sheet
+
+https://mikepfeiffer.io/azure-docker-containers.html
+
+9MoVWJp8pwzO1uX44Z=efbvwHDWK45pO
+
+https://github.com/bradtraversy/nodeuploads.git
+
+https://www.youtube.com/watch?v=AmdM1qlUUlg
+
+https://github.com/lovell/sharp
+
+https://www.nicb.org/vincheck
+https://itstillruns.com/check-number-stolen-property-list-8084589.html
+https://www.nicb.org/vincheck
+
+https://medium.com/@nagarwal/lifecycle-of-docker-container-d2da9f85959
+http://docker-saigon.github.io/post/Docker-Internals/
+
+http://aheckmann.github.io/gm/docs.html
+
+https://mikepfeiffer.io/azure-docker-containers.html
+
+https://docs.microsoft.com/en-us/azure/container-registry/
+
+https://www.npmjs.com/package/opencv4nodejs
+
+https://github.com/niftylettuce/email-templates
+
+https://appdividend.com/2019/02/14/node-express-image-upload-and-resize-tutorial-example/
+
+http://www.vinslabels.com/what-are-replacement-vin-labels-order-vin-sticker-replacement.html
+
+Vechicle fraud
+https://www.experian.com/blogs/ask-experian/20-types-of-identity-theft-and-fraud/
+
+https://archives.fbi.gov/archives/news/stories/2009/march/cloning_032409
+
+https://www.digitaldealer.com/5-reasons-car-dealers-concerned-fraud/
+
+https://www.ageas.co.uk/solved/your-car/how-car-cloning-works--and-a-new-trick-to-beware-of/
+
+https://abcnews.go.com/US/vin-cloning-thieves-masking-car-thefts/story?id=28401709
+
+How to Avoid the Cloning Trap
+Here are a few simple precautions to avoid buying one of the cloned stolen vehicles:
+
+Beware if the price of a used car sounds too good to be true.
+Always run a check on the VIN and get a mechanical inspection as well.
+Whenever buying a used car, use the NICB's free VINCheck service Opens a New Window. .
+Engage one of the vehicle-history-report services like CARFAX or AutoCheck to run a background check.
+
+https://www.youtube.com/watch?v=FVdeOq5suXM
+
+https://github.com/expressjs/express/tree/master/examples
+
+https://developer.ibm.com/node/2014/11/11/compare-javascript-templates-jade-mustache-dust/
+
+https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples
+
+https://github.com/gothinkster/node-express-realworld-example-app
+
+https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me
+
+https://github.com/contentful/the-example-app.nodejs
+
+https://github.com/MrDataScientist/Nodejs-10-projects-examples
+
+https://codelabs.developers.google.com/codelabs/cloud-nodejs/index.html#0
+
+https://blog.webkid.io/image-processing-in-javascript/
+
+https://www.youtube.com/watch?v=ze7IV-LnzwQ
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+https://alligator.io/js/async-functions/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+
+https://nemethgergely.com/async-function-best-practices/
+
+https://stackoverflow.com/questions/52309831/nodejs-async-await-and-function-call
+
+https://developers.google.com/web/fundamentals/primers/async-functions
+
+https://blog.sourcerer.io/complete-introduction-to-async-functions-and-es6-modules-in-node-js-9f59887ba531
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+https://flaviocopes.com/package-json/
+
+https://medium.com/platformer-blog/node-js-concurrency-with-async-await-and-promises-b4c4ae8f4510
+
+https://javascript.info/async
+
+https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/
+
+https://www.dashingd3js.com/lessons/static-and-dynamic-data-and-web-pages
+
+https://levelup.gitconnected.com/async-await-vs-promises-4fe98d11038f
+
+https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
+
+https://read.acloud.guru/comparing-aws-lambda-performance-when-using-node-js-java-c-or-python-281bef2c740f
+
+https://epsagon.com/blog/aws-lambda-programming-language-comparison/
+
+https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62
+
+https://www.dnnsoftware.com/docs/developers/structured-content/visualizer-templates-filters.html
+
+https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes
+
+https://github.com/asepmaulanaismail/image-to-text-nodejs-microservice
+
+https://github.com/kba/awesome-ocr
+
+https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/
+
+https://nodejs.org/ja/docs/guides/anatomy-of-an-http-transaction/
+
+https://github.com/leonardomso/33-js-concepts/blob/master/README.md
+
+https://javascript.info/types
+
+https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
+
+https://github.com/bmorelli25/simple-nodejs-weather-app/blob/master/server.js
+
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
+
+https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
+
+https://github.com/request/request
+
+http://programmerblog.net/weather-app-in-nodejs/
+
+https://risingstack.com/?utm_source=rsblog&utm_medium=sidebar
+
+https://www.npmjs.com/package/opencv4nodejs
+
+
+
+
+
+
+
+
